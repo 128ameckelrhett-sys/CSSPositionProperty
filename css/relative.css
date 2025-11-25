@@ -1,0 +1,18 @@
+h1{
+    position: static;
+    text-decoration: solid;
+    text-decoration: underline;
+    font-style: Verdana;
+    color: rgb(190, 130, 0);
+}
+
+p{
+    position: static;
+    font-style: Verdana;
+    color: rgb(201, 97, 0);
+    font-size: 30px;
+}
+
+body{
+    background-color: rgb(140, 191, 204);
+}
