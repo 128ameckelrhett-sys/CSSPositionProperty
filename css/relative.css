@@ -1,5 +1,6 @@
 h1{
-    position: static;
+    position: relative;
+    left: 100px;
     text-decoration: solid;
     text-decoration: underline;
     font-style: Verdana;
@@ -7,12 +8,15 @@ h1{
 }
 
 p{
-    position: static;
+    position: relative;
+    left: 80px;
     font-style: Verdana;
     color: rgb(201, 97, 0);
     font-size: 30px;
 }
 
 body{
+    min-width: 100vh;
+    min-height: 200vh;
     background-color: rgb(140, 191, 204);
 }
