@@ -10,6 +10,7 @@ h1{
 
 p{
     position: relative;
+    text-decoration: solid;
     top: 50px;
     font-style: Verdana;
     color: rgb(95, 112, 0);
