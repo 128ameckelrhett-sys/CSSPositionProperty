@@ -1,17 +1,23 @@
 h1{
-    position: static;
+    position: fixed;
+    border-color: rgb(3, 0, 10);
+    left: 50px;
     text-decoration: solid;
     text-decoration: underline;
     font-style: Verdana;
-    color: rgb(97, 0, 0);
+    color: rgb(177, 153, 19);
 }
 
-h2{
-    position: static;
+p{
+    position: relative;
+    top: 50px;
     font-style: Verdana;
-    color: rgb(97, 0, 0);
+    color: rgb(95, 112, 0);
+    font-size: 30px;
 }
 
 body{
-    background-color: rgb(140, 191, 204);
+    min-width: 100vh;
+    min-height: 200vh;
+    background-color: rgb(200, 226, 233);
 }
