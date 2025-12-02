@@ -1,19 +1,45 @@
 h1{
     position: static;
     text-decoration: solid;
+    bottom: 5px;
     text-decoration: underline;
     font-style: Verdana;
-    color: rgb(97, 0, 0);
+    color: rgb(2, 0, 107);
+    border: 2px solid blueviolet;
+    font-size: 30px;
+
 }
 
 h2{
-    position: static;
+    position: absolute;
+    text-decoration: solid;
+    bottom: 10px;
+    text-decoration: underline;
     font-style: Verdana;
-    color: rgb(97, 0, 0);
+    color: rgb(0, 162, 255);
+    border: 2px solid blueviolet;
+    font-size: 30px;
+}
+
+p{
+    position: absolute;
+    text-decoration: solid;
+    bottom: 720px;
+    font-style: Verdana;
+    color: rgb(0, 60, 255);
+    border: 2px solid blueviolet;
+    font-size: 30px;
+}
+
+img{
+    position: absolute;
+    bottom: 300px;
+    border: 2px solid blueviolet;
+    font-size: 30px;
 }
 
 body{
-    min-width: 100vh;
+    min-width: 100vw;
     min-height: 200vh;
     background-color: rgb(200, 226, 233);
 }

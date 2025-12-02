@@ -3,13 +3,13 @@ h1{
     text-decoration: solid;
     text-decoration: underline;
     font-style: Verdana;
-    color: rgb(97, 0, 0);
+    color: rgb(85, 0, 182);
 }
 
 h2{
     position: static;
     font-style: Verdana;
-    color: rgb(97, 0, 0);
+    color: rgb(204, 0, 255);
 }
 
 body{
